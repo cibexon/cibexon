@@ -1,3 +1,3 @@
-Here is link to my resume
+CV Link
 ==========================
 https://cibexon.fyi
